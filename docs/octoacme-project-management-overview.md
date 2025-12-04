@@ -20,6 +20,14 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Team Roles
+- Scrum Master: facilitates Agile ceremonies, removes blockers, coaches team on best practices.
+- Business Analyst (BA): gathers and refines requirements, bridges stakeholders and delivery team.
+- UX Designer: designs user experiences, creates prototypes, validates usability.
+- Tech Lead: provides technical leadership, makes architecture decisions, ensures code quality.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for detailed role definitions and collaboration patterns.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan

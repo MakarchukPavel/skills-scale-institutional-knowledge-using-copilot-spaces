@@ -22,3 +22,11 @@ Continuous improvement is embedded in our culture through regular retrospectives
 | [Release & Deployment](octoacme-release-and-deployment.md) | Standardized release processes, deployment checklists, and rollback procedures |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Capturing learnings and converting them into actionable improvements |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Definitions of typical roles and responsibilities used in OctoAcme projects |
+
+## Templates and Checklists
+
+| Document | Description |
+|----------|-------------|
+| [Onboarding Checklist](octoacme-onboarding-checklist.md) | Structured onboarding guide for new team members by role |
+| [Persona Workflow Checklist](octoacme-persona-workflow-checklist.md) | Role-specific task checklists for common workflows |
+| [Communication & Escalation Guide](octoacme-communication-escalation-guide.md) | Communication practices, escalation paths, and blocker management |
